@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+
+}
+
+body {  
+    background-image: url(../Galeria/fondo.jpg);
+}
+
+.formul {
+
+ width: 400px;
+ background: #bec8d4;
+ padding: 30px;
+ margin: auto;
+ margin-top: 30px;
+ border-radius: 4px;
+ font-family: 'Times New Roman', Times, serif;
+ color: rgb(0, 0, 0);
+ box-shadow: 7px 13px 37px #000;
+
+
+}
+
+.formul h1 {
+
+    font-size: 35px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+
+.formul h2 {
+
+    font-size: 20px;
+    margin-bottom: 10px;
+
+}
+
+.formul p {
+
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+
+}
+
+.formul .boton {
+
+width: 100%;
+background: rgb(252, 252, 252);
+border: none;
+padding: 10px;
+color:rgb(0, 0, 0);
+margin: 5px;
+border-radius: 4px;
+}
+.formul .linea {  
+    display: inline-block;
+}
+
+.formul .control {
+
+    width: 100%;
+    background: #bec8d4;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 4px;
+    border: 1px solid rgb(10, 54, 54);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+
+}
